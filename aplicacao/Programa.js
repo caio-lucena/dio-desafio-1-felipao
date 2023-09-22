@@ -213,7 +213,7 @@ console.log("Retornando à guilda de aventureitos como único sobrevivente você
             " Não obstante, você faz questão de enviar suas condolências e parte do ouro ganho para um velho casal de Nords que" +
             " perdera seus preciosos filhos...")
 
-if (xp < 100){
+if (xp < 1000){
     nivel = "Ferro"
 }
 else if (xp < 2000){
