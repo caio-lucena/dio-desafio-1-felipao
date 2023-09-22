@@ -239,7 +239,7 @@ else{
 }
 
 desenharLinhaFalaNarrador()
-console.log("O herói " + nomeDoChar + " está no nível: " + nivel)
+console.log("O herói de nome " + nomeDoChar + " está no nível de " + nivel)
 
 
 
